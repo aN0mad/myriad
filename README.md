@@ -1,2 +1,3 @@
 # myriad
-A MVP golang multi/shell/handler.
+
+A golang multi shell handler.
